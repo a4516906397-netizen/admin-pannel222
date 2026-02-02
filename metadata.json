@@ -1,0 +1,5 @@
+{
+  "name": "StockMaster AI",
+  "description": "A real-time, AI-powered stock register application using Firebase and GPT-OSS-20B. Features distinct Desktop and Mobile 'App-like' interfaces.",
+  "requestFramePermissions": []
+}
